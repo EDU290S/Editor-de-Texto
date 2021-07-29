@@ -1,2 +1,4 @@
 # Editor-de-Texto
-Editor de Texto hecho en JAVA 
+Editor de Texto estilo NotePad
+Lenguaje: JAVA 
+IDE: NetBeans
